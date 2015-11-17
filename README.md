@@ -1,7 +1,7 @@
 # VirtualTennis
 Hello there!
 
-This is a virtual tennis game application, developed in C++/CLI
+This is a Virtual Tennis Game application, developed in C++/CLI
 
 *This application is only for Windows
 
