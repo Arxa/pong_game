@@ -1,0 +1,73 @@
+﻿Build started 16/10/2015 5:51:50 μμ.
+     1>Project "C:\Users\Arxa\Desktop\C++ CLI Projects\VirtualTennisAdvanced\VirtualTennisAdvanced\VirtualTennisAdvanced.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Release\VirtualTennisAdvanced.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /Zi /clr:pure /nologo /W3 /WX- /O2 /Oy- /D WIN32 /D NDEBUG /D _UNICODE /D UNICODE /EHa /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Release\VirtualTennisAdvanced.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /analyze- /errorReport:prompt stdafx.cpp /clr:nostdlib 
+         stdafx.cpp
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /Zi /clr:pure /nologo /W3 /WX- /O2 /Oy- /D WIN32 /D NDEBUG /D _UNICODE /D UNICODE /EHa /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Release\VirtualTennisAdvanced.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /analyze- /errorReport:prompt About.cpp AssemblyInfo.cpp Finale.cpp Form2.cpp IntroMenu.cpp Multiplayer.cpp VirtualTennisAdvanced.cpp Winner.cpp /clr:nostdlib 
+         About.cpp
+         AssemblyInfo.cpp
+         Finale.cpp
+         Form2.cpp
+         IntroMenu.cpp
+     1>c:\users\arxa\desktop\c++ cli projects\virtualtennisadvanced\virtualtennisadvanced\Form1.h(32): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>c:\users\arxa\desktop\c++ cli projects\virtualtennisadvanced\virtualtennisadvanced\Form1.h(782): warning C4244: 'argument' : conversion from 'const double' to 'int', possible loss of data
+     1>c:\users\arxa\desktop\c++ cli projects\virtualtennisadvanced\virtualtennisadvanced\Form1.h(783): warning C4244: 'argument' : conversion from 'const double' to 'int', possible loss of data
+     1>c:\users\arxa\desktop\c++ cli projects\virtualtennisadvanced\virtualtennisadvanced\Form1.h(797): warning C4244: 'argument' : conversion from 'const double' to 'int', possible loss of data
+     1>c:\users\arxa\desktop\c++ cli projects\virtualtennisadvanced\virtualtennisadvanced\Form1.h(798): warning C4244: 'argument' : conversion from 'const double' to 'int', possible loss of data
+     1>c:\users\arxa\desktop\c++ cli projects\virtualtennisadvanced\virtualtennisadvanced\Form1.h(811): warning C4244: 'argument' : conversion from 'const double' to 'int', possible loss of data
+     1>c:\users\arxa\desktop\c++ cli projects\virtualtennisadvanced\virtualtennisadvanced\Form1.h(812): warning C4244: 'argument' : conversion from 'const double' to 'int', possible loss of data
+     1>c:\users\arxa\desktop\c++ cli projects\virtualtennisadvanced\virtualtennisadvanced\Form1.h(825): warning C4244: 'argument' : conversion from 'const double' to 'int', possible loss of data
+     1>c:\users\arxa\desktop\c++ cli projects\virtualtennisadvanced\virtualtennisadvanced\Form1.h(826): warning C4244: 'argument' : conversion from 'const double' to 'int', possible loss of data
+         Multiplayer.cpp
+     1>c:\users\arxa\desktop\c++ cli projects\virtualtennisadvanced\virtualtennisadvanced\Form1.h(32): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>c:\users\arxa\desktop\c++ cli projects\virtualtennisadvanced\virtualtennisadvanced\Form1.h(782): warning C4244: 'argument' : conversion from 'const double' to 'int', possible loss of data
+     1>c:\users\arxa\desktop\c++ cli projects\virtualtennisadvanced\virtualtennisadvanced\Form1.h(783): warning C4244: 'argument' : conversion from 'const double' to 'int', possible loss of data
+     1>c:\users\arxa\desktop\c++ cli projects\virtualtennisadvanced\virtualtennisadvanced\Form1.h(797): warning C4244: 'argument' : conversion from 'const double' to 'int', possible loss of data
+     1>c:\users\arxa\desktop\c++ cli projects\virtualtennisadvanced\virtualtennisadvanced\Form1.h(798): warning C4244: 'argument' : conversion from 'const double' to 'int', possible loss of data
+     1>c:\users\arxa\desktop\c++ cli projects\virtualtennisadvanced\virtualtennisadvanced\Form1.h(811): warning C4244: 'argument' : conversion from 'const double' to 'int', possible loss of data
+     1>c:\users\arxa\desktop\c++ cli projects\virtualtennisadvanced\virtualtennisadvanced\Form1.h(812): warning C4244: 'argument' : conversion from 'const double' to 'int', possible loss of data
+     1>c:\users\arxa\desktop\c++ cli projects\virtualtennisadvanced\virtualtennisadvanced\Form1.h(825): warning C4244: 'argument' : conversion from 'const double' to 'int', possible loss of data
+     1>c:\users\arxa\desktop\c++ cli projects\virtualtennisadvanced\virtualtennisadvanced\Form1.h(826): warning C4244: 'argument' : conversion from 'const double' to 'int', possible loss of data
+         VirtualTennisAdvanced.cpp
+     1>c:\users\arxa\desktop\c++ cli projects\virtualtennisadvanced\virtualtennisadvanced\Form1.h(32): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>c:\users\arxa\desktop\c++ cli projects\virtualtennisadvanced\virtualtennisadvanced\Form1.h(782): warning C4244: 'argument' : conversion from 'const double' to 'int', possible loss of data
+     1>c:\users\arxa\desktop\c++ cli projects\virtualtennisadvanced\virtualtennisadvanced\Form1.h(783): warning C4244: 'argument' : conversion from 'const double' to 'int', possible loss of data
+     1>c:\users\arxa\desktop\c++ cli projects\virtualtennisadvanced\virtualtennisadvanced\Form1.h(797): warning C4244: 'argument' : conversion from 'const double' to 'int', possible loss of data
+     1>c:\users\arxa\desktop\c++ cli projects\virtualtennisadvanced\virtualtennisadvanced\Form1.h(798): warning C4244: 'argument' : conversion from 'const double' to 'int', possible loss of data
+     1>c:\users\arxa\desktop\c++ cli projects\virtualtennisadvanced\virtualtennisadvanced\Form1.h(811): warning C4244: 'argument' : conversion from 'const double' to 'int', possible loss of data
+     1>c:\users\arxa\desktop\c++ cli projects\virtualtennisadvanced\virtualtennisadvanced\Form1.h(812): warning C4244: 'argument' : conversion from 'const double' to 'int', possible loss of data
+     1>c:\users\arxa\desktop\c++ cli projects\virtualtennisadvanced\virtualtennisadvanced\Form1.h(825): warning C4244: 'argument' : conversion from 'const double' to 'int', possible loss of data
+     1>c:\users\arxa\desktop\c++ cli projects\virtualtennisadvanced\virtualtennisadvanced\Form1.h(826): warning C4244: 'argument' : conversion from 'const double' to 'int', possible loss of data
+         Winner.cpp
+         Generating Code...
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /clr:pure /nologo /W3 /WX- /O2 /Oy- /D WIN32 /D NDEBUG /D _UNICODE /D UNICODE /EHa /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /TP /analyze- /errorReport:prompt "C:\Users\Arxa\AppData\Local\Temp\.NETFramework,Version=v4.0.AssemblyAttributes.cpp"
+         .NETFramework,Version=v4.0.AssemblyAttributes.cpp
+       CoreResGen:
+         No resources are out of date with respect to their source files. Skipping resource generation.
+       ResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /D _UNICODE /D UNICODE /l"0x0409" /nologo /fo"Release\app.res" app.rc 
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Arxa\Desktop\C++ CLI Projects\VirtualTennisAdvanced\Release\VirtualTennisAdvanced.exe" /INCREMENTAL:NO /NOLOGO /ASSEMBLYRESOURCE:Release\VirtualTennisAdvanced.About.resources /ASSEMBLYRESOURCE:Release\VirtualTennisAdvanced.Finale.resources /ASSEMBLYRESOURCE:Release\VirtualTennisAdvanced.Form1.resources /ASSEMBLYRESOURCE:Release\VirtualTennisAdvanced.IntroMenu.resources /ASSEMBLYRESOURCE:Release\VirtualTennisAdvanced.Multiplayer.resources /ASSEMBLYRESOURCE:Release\VirtualTennisAdvanced.Winner.resources /MANIFEST /ManifestFile:"Release\VirtualTennisAdvanced.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Arxa\Desktop\C++ CLI Projects\VirtualTennisAdvanced\Release\VirtualTennisAdvanced.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Release\app.res
+         Release\About.obj
+         Release\AssemblyInfo.obj
+         Release\Finale.obj
+         Release\Form2.obj
+         Release\IntroMenu.obj
+         Release\Multiplayer.obj
+         Release\stdafx.obj
+         Release\VirtualTennisAdvanced.obj
+         Release\Winner.obj
+         "Release\.NETFramework,Version=v4.0.AssemblyAttributes.obj"
+         VirtualTennisAdvanced.vcxproj -> C:\Users\Arxa\Desktop\C++ CLI Projects\VirtualTennisAdvanced\Release\VirtualTennisAdvanced.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\Arxa\Desktop\C++ CLI Projects\VirtualTennisAdvanced\Release\VirtualTennisAdvanced.exe;#1" /manifest Release\VirtualTennisAdvanced.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Release\VirtualTennisAdvanced.unsuccessfulbuild".
+         Touching "Release\VirtualTennisAdvanced.lastbuildstate".
+     1>Done Building Project "C:\Users\Arxa\Desktop\C++ CLI Projects\VirtualTennisAdvanced\VirtualTennisAdvanced\VirtualTennisAdvanced.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:53.57
