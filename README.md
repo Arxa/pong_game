@@ -16,6 +16,6 @@ If you still can't play the game, please contact me.
 
 Enjoy!
 
--Arxa
 
-Summer 2015, Thessaloniki, Greece
+-Summer 2015, Thessaloniki, Greece
+-Arxa
