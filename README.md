@@ -1,9 +1,8 @@
 # VirtualTennis
-Hello there!
 
-This is a Virtual Tennis Game application, developed in C++/CLI
+This is a Virtual Tennis Game application, developed in C++/CLI.
 
-*This application is only for Windows
+*This application is only for Windows Platform.
 
 Before you run this game you have to download this: 
 
@@ -18,4 +17,4 @@ Enjoy!
 
  
 - August 2015, Thessaloniki, Greece
-- Arxa
+- Nikiforos Archakis
