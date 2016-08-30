@@ -1,20 +1,14 @@
 # VirtualTennis
 
-This is a Virtual Tennis Game application, developed in C++/CLI.
+This is a Virtual Tennis (Atari like) Desktop Game application for Windows, developed in C++/CLI. A quite challenging and interesting project at that time with no game engines used at all.
 
-*This application is only for Windows Platform.
 
-Before you run this game you have to download this: 
+How to play: 
 
-Microsoft .NET Framework 4 (Standalone Installer)
-http://www.microsoft.com/en-us/download/details.aspx?id=17718
+1) Download and install: <a href="http://www.microsoft.com/en-us/download/details.aspx?id=17718/">Microsoft .NET Framework 4 (Standalone Installer)</a>
 
-To run this application, navigate to the Release Folder and run the "VirtualTennisAdvanced" Application file.
 
-If you still can't play the game, please contact me.
-
-Enjoy!
-
+2) Double click on the "VirtualTennisAdvanced" Application file.
  
 - August 2015, Thessaloniki, Greece
 - Nikiforos Archakis
